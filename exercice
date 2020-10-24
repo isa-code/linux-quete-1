@@ -1,0 +1,243 @@
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ ls
+'3D Objects'/        'Local Settings'@                                                                               ntuser.ini
+ AppData/            'Menu Démarrer'@                                                                                OneDrive/
+'Application Data'@  'Mes documents'@                                                                                Pictures/
+ bin/                 Modèles@                                                                                       Recent@
+ Contacts/            Music/                                                                                        'Saved Games'/
+ Cookies@             NTUSER.DAT                                                                                     Searches/
+ Desktop/             ntuser.dat.LOG1                                                                                SendTo@
+ Documents/           ntuser.dat.LOG2                                                                                Videos/
+ Downloads/           NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf                                       "Voisinage d'impression"@
+ Favorites/           NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms  'Voisinage réseau'@
+ Links/               NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms   wild-project/
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ ls .
+'3D Objects'/        'Local Settings'@                                                                               ntuser.ini
+ AppData/            'Menu Démarrer'@                                                                                OneDrive/
+'Application Data'@  'Mes documents'@                                                                                Pictures/
+ bin/                 Modèles@                                                                                       Recent@
+ Contacts/            Music/                                                                                        'Saved Games'/
+ Cookies@             NTUSER.DAT                                                                                     Searches/
+ Desktop/             ntuser.dat.LOG1                                                                                SendTo@
+ Documents/           ntuser.dat.LOG2                                                                                Videos/
+ Downloads/           NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf                                       "Voisinage d'impression"@
+ Favorites/           NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms  'Voisinage réseau'@
+ Links/               NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms   wild-project/
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ ls -a
+ ./                  'Mes documents'@
+ ../                  Modèles@
+ .bash_history        Music/
+ .bash_profile        NTUSER.DAT
+ .bashrc              ntuser.dat.LOG1
+ .gitconfig           ntuser.dat.LOG2
+ .vscode/             NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+'3D Objects'/         NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+ AppData/             NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+'Application Data'@   ntuser.ini
+ bin/                 OneDrive/
+ Contacts/            Pictures/
+ Cookies@             Recent@
+ Desktop/            'Saved Games'/
+ Documents/           Searches/
+ Downloads/           SendTo@
+ Favorites/           Videos/
+ Links/              "Voisinage d'impression"@
+'Local Settings'@    'Voisinage réseau'@
+'Menu Démarrer'@      wild-project/
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ ls Pictures/
+'5em au lieu de 5px.jpg'            'code war pierre.PNG'   legolas.jpg                'non autorisé1.png'         screenshot_20201021-205631_twitter.jpg
+'Algorithmique et pseudo-code.PNG'   debugging.png         'mignon chat gourmand.PNG'  'Raph - Si si ça va.jpeg'
+ bureau.docx                         desktop.ini           'non autorisé.docx'         'Raph - Si si ça va.jpg'
+'Camera Roll'/                       image_from_ios.jpg    'non autorisé.png'          'Saved Pictures'/
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ ls ./Pictures
+'5em au lieu de 5px.jpg'            'code war pierre.PNG'   legolas.jpg                'non autorisé1.png'         screenshot_20201021-205631_twitter.jpg
+'Algorithmique et pseudo-code.PNG'   debugging.png         'mignon chat gourmand.PNG'  'Raph - Si si ça va.jpeg'
+ bureau.docx                         desktop.ini           'non autorisé.docx'         'Raph - Si si ça va.jpg'
+'Camera Roll'/                       image_from_ios.jpg    'non autorisé.png'          'Saved Pictures'/
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ ls /c/Users/Wild\ isa/
+'3D Objects'/        'Local Settings'@                                                                               ntuser.ini
+ AppData/            'Menu Démarrer'@                                                                                OneDrive/
+'Application Data'@  'Mes documents'@                                                                                Pictures/
+ bin/                 Modèles@                                                                                       Recent@
+ Contacts/            Music/                                                                                        'Saved Games'/
+ Cookies@             NTUSER.DAT                                                                                     Searches/
+ Desktop/             ntuser.dat.LOG1                                                                                SendTo@
+ Documents/           ntuser.dat.LOG2                                                                                Videos/
+ Downloads/           NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf                                       "Voisinage d'impression"@
+ Favorites/           NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms  'Voisinage réseau'@
+ Links/               NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms   wild-project/
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ ls /c/Users/
+'All Users'@   Default/  'Default User'@   desktop.ini   isa/   Public/  'Wild isa'/
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ ls /c/Windows/s
+SchCache/             ServiceState/         setuperr.log          SoftwareDistribution/ System/               SystemResources/
+schemas/              servicing/            ShellComponents/      Speech/               system.ini            SysWOW64/
+security/             Setup/                ShellExperiences/     Speech_OneCore/       System32/
+ServiceProfiles/      setupact.log          SKB/                  splwow64.exe          SystemApps/
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ ls /c/Windows/s
+SchCache/             ServiceState/         setuperr.log          SoftwareDistribution/ System/               SystemResources/
+schemas/              servicing/            ShellComponents/      Speech/               system.ini            SysWOW64/
+security/             Setup/                ShellExperiences/     Speech_OneCore/       System32/
+ServiceProfiles/      setupact.log          SKB/                  splwow64.exe          SystemApps/
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ ls -l /c/Windows
+total 804091
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  addins/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  16 07:50  appcompat/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 11:25  apppatch/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  24 07:13  AppReadiness/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 14:01  assembly/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 11:25  bcastdvr/
+-rwxr-xr-x 2 Wild isa 197121     78336 oct.  15 11:20  bfsvc.exe*
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  BitLockerDiscoveryVolumeContents/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  Boot/
+-rw-r--r-- 1 Wild isa 197121     67584 oct.  24 22:04  bootstat.dat
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  Branding/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 11:24  CbsTemp/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  Containers/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 11:05  CSC/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  Cursors/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 11:14  debug/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  diagnostics/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 11:25  DiagTrack/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  DigitalLocker/
+-rw-r--r-- 1 Wild isa 197121     10294 oct.  15 15:25  DirectX.log
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 14:05 'Downloaded Installations'/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019 'Downloaded Program Files'/
+-rw-r--r-- 1 Wild isa 197121      1947 oct.  15 11:00  DtcInstall.log
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 17:42  ELAMBKUP/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  en-US/
+-rwxr-xr-x 2 Wild isa 197121   4590560 oct.  15 11:20  explorer.exe*
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 13:58  Fonts/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  fr-FR/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  GameBarPresenceWriter/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  Globalization/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  Help/
+-rwxr-xr-x 2 Wild isa 197121   1075200 déc.   7  2019  HelpPane.exe*
+-rwxr-xr-x 2 Wild isa 197121     18432 déc.   7  2019  hh.exe*
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  IdentityCRL/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  IME/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 11:25  ImmersiveControlPanel/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  24 17:17  INF/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  InputMethod/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  16 13:12  Installer/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  L2Schemas/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  LanguageOverlayCache/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  LiveKernelReports/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  23 11:08  Logs/
+-rw-r--r-- 1 Wild isa 197121      1380 oct.  15 10:59  lsasetup.log
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  Media/
+-rw-r--r-- 1 Wild isa 197121 803524501 oct.  22 17:24  MEMORY.DMP
+-rw-r--r-- 2 Wild isa 197121     43131 déc.   7  2019  mib.bin
+drwxr-xr-x 1 Wild isa 197121         0 oct.  24 11:08  Microsoft.NET/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  Migration/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  22 17:24  Minidump/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  ModemLogs/
+-rwxr-xr-x 3 Wild isa 197121    202240 oct.  15 11:22  notepad.exe*
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  OCR/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019 'Offline Web Pages'/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  17 11:24  Panther/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  Performance/
+-rw-r--r-- 1 Wild isa 197121      6060 oct.  22 17:24  PFRO.log
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  PLA/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 11:25  PolicyDefinitions/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  24 17:34  Prefetch/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 11:25  PrintDialog/
+-rw-r--r-- 1 Wild isa 197121     30831 déc.   7  2019  Professional.xml
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 11:25  Provisioning/
+-rwxr-xr-x 2 Wild isa 197121    369664 déc.   7  2019  regedit.exe*
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  Registration/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  RemotePackages/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  rescache/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  Resources/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  SchCache/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  schemas/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  security/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 10:59  ServiceProfiles/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 11:14  ServiceState/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 11:25  servicing/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  Setup/
+-rw-r--r-- 1 Wild isa 197121      6022 oct.  15 15:22  setupact.log
+-rw-r--r-- 1 Wild isa 197121         0 oct.  15 10:59  setuperr.log
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 11:25  ShellComponents/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 11:25  ShellExperiences/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  SKB/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 11:04  SoftwareDistribution/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  Speech/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  Speech_OneCore/
+-rwxr-xr-x 2 Wild isa 197121    135168 oct.  15 11:20  splwow64.exe*
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  System/
+-rw-r--r-- 1 Wild isa 197121       219 déc.   7  2019  system.ini
+drwxr-xr-x 1 Wild isa 197121         0 oct.  24 17:17  System32/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  SystemApps/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 11:25  SystemResources/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 14:07  SysWOW64/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  TAPI/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 10:59  Tasks/
+drwxr-xr-x 1 Wild isa 197121         0 oct.  24 22:16  Temp/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  tracing/
+drwxr-xr-x 1 Wild isa 197121         0 mai   11 07:45  twain_32/
+-rwxr-xr-x 2 Wild isa 197121     65024 déc.   7  2019  twain_32.dll*
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  Vss/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  WaaS/
+drwxr-xr-x 1 Wild isa 197121         0 déc.   7  2019  Web/
+-rw-r--r-- 1 Wild isa 197121        92 déc.   7  2019  win.ini
+-r--r--r-- 3 Wild isa 197121       670 déc.   7  2019  WindowsShell.Manifest
+-rw-r--r-- 1 Wild isa 197121       276 oct.  24 22:16  WindowsUpdate.log
+-rwxr-xr-x 2 Wild isa 197121     11776 déc.   7  2019  winhlp32.exe*
+drwxr-xr-x 1 Wild isa 197121         0 oct.  15 11:29  WinSxS/
+-rw-r--r-- 2 Wild isa 197121    316640 déc.   7  2019  WMSysPr9.prx
+-rwxr-xr-x 3 Wild isa 197121     11264 déc.   6  2019  write.exe*
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ pwd
+/c/Users/Wild isa
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ ^C
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ cd Pictures/
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~/Pictures
+$ cd ..
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ cd ../
+All Users/    Default/      Default User/ desktop.ini   isa/          Public/       Wild isa/
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ cd ..
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 /c/Users
+$ cd
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ cd ~
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ cd ~/M
+Menu Démarrer/ Mes documents/ Modèles/       Music/
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~
+$ cd ~/Music/
+
+Wild isa@DESKTOP-5KBHI67 MINGW64 ~/Music
+$
